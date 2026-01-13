@@ -24,19 +24,3 @@ Currently, I am deeply interested in **Algorithm (Python/SQL)**, **Data Analysis
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 <br/>
-
-## &#x1f4c8; GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/jaehyeok-99">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehyeok-99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jaehyeok's GitHub Stats" />
-  </a>
-  
-  <br/><br/>
-
-  <a href="https://github.com/jaehyeok-99">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyeok-99&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
-  </a>
-</div>
-
-<br/>
