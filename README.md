@@ -22,5 +22,6 @@ Currently, I am deeply interested in **Algorithm (Python/SQL)**, **Data Analysis
 **Infrastructure & Tools** ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Notion-informational?style=flat&logo=notion&logoColor=white&color=2bbc8a)
 
 <br/>
